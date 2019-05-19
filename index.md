@@ -31,4 +31,4 @@ Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu 
 
 Monggo langsung japri via [**_Facebook Messenger_**](https://www.facebook.com/Jaka.Bendhu) atau via [**_Whatsapp_**](https://api.whatsapp.com/send?phone=6289519922366).
 
-~~~ *** ~~~
+## 
