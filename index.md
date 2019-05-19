@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+## JOSterops Surabaya
 
-You can use the [editor on GitHub](https://github.com/JOSPlatL/JOSSUA-Database/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MASTER PLAN OF JOSSUA / PLAT L
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Ring & Piagam bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops pusat, harus dilakukan manual atau ketemu secara langsung tanpa perantara dan bersedia disurvei. Hal tsb terpaksa dilakukan untuk menjaga tali silaturahmi dan meminimalisir kelakuan 'siluman', meskipun aslinya itu hanya alasan alias modus agar bisa dapat kopi & rokok batangan gratis ... hehehehe
+
+Keterangan:
+A. Ring = nama koloni dan nomor seri
+B. Piagam (berupa QR code) = data peternak dan data anakan pleci yg kalau diinginkan bisa jg diprint atau dicetak seperti piagam gantangan
+
+2. Data bersifat Online, bisa dilihat siapa saja, kapan saja dan dimana saja, hal ini dilakukan atas pertimbangan kemudahan dan efisiensi untuk mencari asal usul pleci tsb dan bisa juga sebagai bukti keabsahan kalau suatu saat hasil ternakan pindah tangan dan tempat (jual/beli). Ini juga dimaksudkan agar pusat bisa dg mudah kalau memerlukan dan ingin memantau data hasil ternakan sekaligus koloni beserta para peternaknya.
+
+Keterangan:
+A. Semua data dikumpulkan & dapat akses di https://github.com/JOSPlatL (contoh data ada pada repo jos Arie Yudha Setiawan)
+B. Data bisa digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
+C. Tetap dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
+
+3. JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), sy sendiri heran kok bisa mesra seperti ini. Tp sy sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan komen atau japri kalau ada saran, pertanyaan dan masukan.
+
+4. Wes ngunu sek ae yo lur, biar klo ditanya Malaikat kita sdh siap bekalnya dan bisa dipertanggung jawabkan dihadapan Tuhan Y.M.E
+
+Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu JOSMOJO @Fajar yg telah memberi inspirasi. Salam Ternak Sampai Manak #JOSSUA / #Plat_L
 
 ### Markdown
 
