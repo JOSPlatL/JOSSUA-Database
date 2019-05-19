@@ -19,13 +19,14 @@ Keterangan:
 
 **Gotong Royong**
 
-JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), sy sendiri heran kok bisa mesra seperti ini. Tp sy sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan hubungi kami melalui menu _Saran dan Kontak_ kalau ada pertanyaan dan masukan biar lebih mesra.
+JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), sy sendiri heran kok bisa mesra seperti ini. Tp sy sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan hubungi kami melalui menu _**'Saran dan Kontak'**_ kalau ada pertanyaan dan masukan biar lebih mesra.
 
 **Penutup**
 
 Wes ngunu sek ae yo lur, biar klo ditanya Malaikat kita sdh siap bekalnya dan bisa dipertanggung jawabkan dihadapan Tuhan Y.M.E
 
 Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu JOSMOJO yg telah memberi inspirasi.
+
 _"Salam Ternak Sampai Manak"_
 
 ### Saran dan Kontak
