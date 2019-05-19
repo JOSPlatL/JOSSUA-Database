@@ -13,13 +13,17 @@ Keterangan:
 bisa dilihat siapa saja, kapan saja dan dimana saja, hal ini dilakukan atas pertimbangan kemudahan dan efisiensi untuk mencari asal usul pleci tsb dan bisa juga sebagai bukti keabsahan kalau suatu saat hasil ternakan pindah tangan dan tempat (jual/beli). Ini juga dimaksudkan agar pusat bisa dg mudah kalau memerlukan dan ingin memantau data hasil ternakan sekaligus koloni beserta para peternaknya.
 
 Keterangan:
--Semua data dikumpulkan & dapat akses di https://github.com/JOSPlatL (contoh data ada pada repo jos Arie Yudha Setiawan)
--Data bisa digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
--Tetap dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
+- Semua data dikumpulkan & dapat akses [disini](https://github.com/JOSPlatL?tab=repositories).
+- Data bisa digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
+- Tetap dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
 
-### JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), sy sendiri heran kok bisa mesra seperti ini. Tp sy sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan komen atau japri kalau ada saran, pertanyaan dan masukan.
+### Gotong Royong
 
-### Wes ngunu sek ae yo lur, biar klo ditanya Malaikat kita sdh siap bekalnya dan bisa dipertanggung jawabkan dihadapan Tuhan Y.M.E
+JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), sy sendiri heran kok bisa mesra seperti ini. Tp sy sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan komen atau japri kalau ada saran, pertanyaan dan masukan.
+
+### Penutup
+
+Wes ngunu sek ae yo lur, biar klo ditanya Malaikat kita sdh siap bekalnya dan bisa dipertanggung jawabkan dihadapan Tuhan Y.M.E
 
 Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu JOSMOJO yg telah memberi inspirasi. Salam Ternak Sampai Manak.
 
