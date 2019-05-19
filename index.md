@@ -1,6 +1,6 @@
 ## JOSterops Surabaya / Plat L
 
-#Leak: MASTER PLAN OF JOSSUA / PLAT L
+MASTER PLAN OF JOSSUA / PLAT L
 
 1. Ring & Piagam bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops pusat, harus dilakukan manual atau ketemu secara langsung tanpa perantara dan bersedia disurvei. Hal tsb terpaksa dilakukan untuk menjaga tali silaturahmi dan meminimalisir kelakuan 'siluman', meskipun aslinya itu hanya alasan alias modus agar bisa dapat kopi & rokok batangan gratis ... hehehehe
 
