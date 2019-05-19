@@ -25,7 +25,8 @@ JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²n
 
 Wes ngunu sek ae yo lur, biar klo ditanya Malaikat kita sdh siap bekalnya dan bisa dipertanggung jawabkan dihadapan Tuhan Y.M.E
 
-Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu JOSMOJO yg telah memberi inspirasi. Salam Ternak Sampai Manak.
+Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu JOSMOJO yg telah memberi inspirasi.
+**Salam Ternak Sampai Manak**
 
 ### Saran dan Kontak
 
