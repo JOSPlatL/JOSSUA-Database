@@ -5,9 +5,10 @@
 bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops pusat, harus dilakukan manual atau ketemu secara langsung tanpa perantara dan bersedia disurvei. Hal tsb terpaksa dilakukan untuk menjaga tali silaturahmi dan meminimalisir kelakuan 'siluman', meskipun aslinya itu hanya alasan alias modus agar bisa dapat kopi & rokok batangan gratis ... hehehehe
 
 Keterangan:
-- Ring = nama koloni dan nomor seri
+- Ring = nama koloni dan nomor seri.
+Lihat [RING]()
 - Piagam (berupa QR code) = data peternak dan data anakan pleci yg kalau diinginkan bisa jg diprint atau dicetak seperti piagam gantangan.
-Lihat contoh [PIAGAM](https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/master/Files/SAMPLE-PIAGAM-JOSSUA.png)
+Contoh [PIAGAM](https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/master/Files/SAMPLE-PIAGAM-JOSSUA.png)
 
 **Data bersifat Online**
 
