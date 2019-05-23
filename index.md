@@ -7,7 +7,8 @@ bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops pusat, haru
 Keterangan:
 - Ring = nama koloni dan nomor seri
 - Piagam (berupa QR code) = data peternak dan data anakan pleci yg kalau diinginkan bisa jg diprint atau dicetak seperti piagam gantangan.
-Contoh ![PIAGAM](src=https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/master/Files/SAMPLE-PIAGAM-JOSSUA.png)
+
+![PIAGAM Konservasi](https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/master/Files/SAMPLE-PIAGAM-JOSSUA.png)
 
 **Data bersifat Online**
 
