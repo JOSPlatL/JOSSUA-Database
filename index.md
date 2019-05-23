@@ -6,14 +6,15 @@ bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops pusat, haru
 
 Keterangan:
 - Ring = nama koloni dan nomor seri
-- Piagam (berupa QR code) = data peternak dan data anakan pleci yg kalau diinginkan bisa jg diprint atau dicetak seperti piagam gantangan
+- Piagam (berupa QR code) = data peternak dan data anakan pleci yg kalau diinginkan bisa jg diprint atau dicetak seperti piagam gantangan.
+Contoh ![PIAGAM](src=https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/master/Files/SAMPLE-PIAGAM-JOSSUA.png)
 
 **Data bersifat Online**
 
 bisa dilihat siapa saja, kapan saja dan dimana saja, hal ini dilakukan atas pertimbangan kemudahan dan efisiensi untuk mencari asal usul pleci tsb dan bisa juga sebagai bukti keabsahan kalau suatu saat hasil ternakan pindah tangan dan tempat (jual/beli). Ini juga dimaksudkan agar pusat bisa dg mudah kalau memerlukan dan ingin memantau data hasil ternakan sekaligus koloni beserta para peternaknya.
 
 Keterangan:
-- Semua data dikumpulkan & dapat akses [**_disini_**](https://github.com/JOSPlatL?tab=repositories).
+- Semua data dikumpulkan & dapat diakses [**_disini_**](https://github.com/JOSPlatL?tab=repositories).
 - Data bisa digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
 - Tetap dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
 
