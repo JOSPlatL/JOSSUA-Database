@@ -15,7 +15,7 @@ Contoh [_PIAGAM_](https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/mas
 bisa dilihat siapa saja, kapan saja dan dimana saja, hal ini dilakukan atas pertimbangan kemudahan dan efisiensi untuk mencari asal usul pleci tsb dan bisa juga sebagai bukti keabsahan kalau suatu saat hasil ternakan pindah tangan dan tempat (jual/beli). Ini juga dimaksudkan agar pusat bisa dg mudah kalau memerlukan dan ingin memantau data hasil ternakan sekaligus koloni beserta para peternaknya.
 
 Keterangan:
-- Pengisian data bisa dilakukan dengan cara [**_Isi Formulir Online_**](https://forms.gle/xpEtw5hEWG1dWgUv5)
+- Pengisian data bisa dilakukan dengan cara mengisi [**_Formulir Online_**](https://forms.gle/xpEtw5hEWG1dWgUv5)
 - Semua data dikumpulkan & dapat diakses [**_disini_**](https://github.com/JOSPlatL?tab=repositories)
 - Data bisa digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
 - Tetap dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
