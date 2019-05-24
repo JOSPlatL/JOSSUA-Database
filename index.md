@@ -19,6 +19,8 @@ Keterangan:
 - Data bisa digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
 - Tetap dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
 
+Pengisian data bisa dilakukan dengan [_Isi Formulir Online_](https://forms.gle/xpEtw5hEWG1dWgUv5)
+
 **Gotong Royong**
 
 JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), sy sendiri heran kok bisa mesra seperti ini. Tp sy sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan hubungi kami melalui menu _'Saran dan Kontak'_ kalau ada pertanyaan dan masukan biar lebih mesra.
