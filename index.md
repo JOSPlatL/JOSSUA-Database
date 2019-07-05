@@ -34,6 +34,6 @@ _"Salam Ternak Sampai Manak"_
 
 ### Saran dan Kontak
 
-Monggo langsung japri via [**_Facebook Messenger_**](https://www.facebook.com/Jaka.Bendhu) atau via [**_Whatsapp_**](https://api.whatsapp.com/send?phone=6289519922366).
+Monggo langsung japri via [**_Facebook Messenger_**](https://m.me/Jaka.Bendhu) atau via [**_Whatsapp_**](https://api.whatsapp.com/send?phone=6289519922366).
 
 ## [ ](http://)
