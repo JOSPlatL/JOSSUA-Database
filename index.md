@@ -32,8 +32,8 @@ Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu 
 
 _"Salam Ternak Sampai Manak"_
 
-### Saran dan Kontak
+### Sinau Bareng & Berbagi Kebahagiaan
 
-Monggo langsung japri via [**_Facebook Messenger_**](https://m.me/Jaka.Bendhu) atau via [**_Whatsapp_**](https://api.whatsapp.com/send?phone=6289519922366).
+Monggo gabung di group [**_Facebook_**](https://www.facebook.com/groups/1285765151477142/) atau [**_Whatsapp_**](https://chat.whatsapp.com/GRTkGhnRbx37RKwoJng7nt).
 
 ## [ ](http://)
