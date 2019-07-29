@@ -32,7 +32,7 @@ Matur nuwun buat sesepuh dan seluruh keluarga JOSterops, terutama buat pak ketu 
 
 _"Salam Ternak Sampai Manak"_
 
-### Sinau Bareng & Berbagi Kebahagiaan
+**Sinau Bareng & Berbagi Kebahagiaan**
 
 Monggo gabung di group [**_Facebook_**](https://www.facebook.com/groups/1285765151477142/) atau [**_Whatsapp_**](https://chat.whatsapp.com/GRTkGhnRbx37RKwoJng7nt).
 
