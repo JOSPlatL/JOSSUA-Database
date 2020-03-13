@@ -7,7 +7,7 @@ bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops pusat, haru
 Keterangan:
 - Ring = nama koloni dan nomor seri.
 Lihat [_RING_](https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/master/Files/JOS-L_Official.png)
-- Piagam (berupa QR code) = data peternak dan data anakan pleci yg kalau diinginkan bisa jg diprint atau dicetak seperti piagam gantangan.
+- Piagam Konservasi (terdapat QR code) = data peternak dan data anakan pleci yg kalau diinginkan bisa jg diprint atau dicetak seperti piagam gantangan.
 Contoh [_PIAGAM_](https://raw.githubusercontent.com/JOSPlatL/JOSSUA-Database/master/Files/SAMPLE-PIAGAM-JOSSUA.png)
 
 **Data bersifat Online**
@@ -17,12 +17,12 @@ bisa dilihat siapa saja, kapan saja dan dimana saja, hal ini dilakukan atas pert
 Keterangan:
 - Pengisian data bisa dilakukan dengan cara mengisi [**_Formulir Online_**](https://forms.gle/XsqiHTTUKLQyNb3z8)
 - Semua data dikumpulkan & dapat diakses [**_disini_**](https://github.com/JOSPlatL?tab=repositories)
-- Data bisa digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
-- Tetap dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
+- Data koloni sbg backup dan digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
+- Up To Date, dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
 
 **Gotong Royong**
 
-JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), sy sendiri heran kok bisa mesra seperti ini. Tp sy sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan belajar bersama kami melalui menu _'Sinau Bareng'_ kalau ada pertanyaan dan masukan biar lebih mesra.
+JOSSUA secara tersirat dan naluri alam menyepakati & menerima pembagian tugas²nya tanpa diminta apalagi diperintah (acak/tidak bertumpu pada 1 individu), kami sendiri heran kok bisa mesra seperti ini. Tapi kami sangat bersyukur krn hal tsb juga bermanfaat guna menjaga silaturahmi dan rasa gotong royong. Monggo dikoreksi ... silahkan belajar bersama kami melalui menu _'Sinau Bareng'_ kalau ada pertanyaan dan masukan biar lebih mesra.
 
 **Penutup**
 
