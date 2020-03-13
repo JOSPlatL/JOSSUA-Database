@@ -2,7 +2,7 @@
 
 **Ring & Piagam**
 
-bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops pusat, harus dilakukan manual atau ketemu secara langsung tanpa perantara dan bersedia disurvei. Hal tsb terpaksa dilakukan untuk menjaga tali silaturahmi dan meminimalisir kelakuan 'siluman', meskipun aslinya itu hanya alasan alias modus agar bisa dapat kopi & rokok batangan gratis ... hehehehe
+bisa diperoleh dg menyertakan data² sesuai ketentuan pada JOSterops Pusat, harus dilakukan manual atau ketemu secara langsung tanpa perantara dan bersedia disurvei. Hal tsb terpaksa dilakukan untuk menjaga tali silaturahmi dan meminimalisir kelakuan 'siluman', meskipun aslinya itu hanya alasan alias modus agar bisa dapat kopi & rokok batangan gratis ... hehehehe
 
 Keterangan:
 - Ring = nama koloni dan nomor seri.
