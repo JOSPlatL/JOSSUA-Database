@@ -16,7 +16,7 @@ bisa dilihat siapa saja, kapan saja dan dimana saja, hal ini dilakukan atas pert
 
 Keterangan:
 - Pengisian data bisa dilakukan dengan cara mengisi [**_Formulir Online_**](https://forms.gle/XsqiHTTUKLQyNb3z8)
-- Semua data dikumpulkan & dapat diakses [**_disini_**](https://github.com/JOSPlatL?tab=repositories)
+- Semua data dikumpulkan & dapat diakses [**_disini_**](https://drive.google.com/drive/u/0/mobile/folders/1XN_DQ87T2a5RC780bVkqhO5d3CQB-F9R)
 - Data koloni sbg backup dan digunakan oleh pusat sebagai rujukan untuk mengeluarkan kitir
 - Up To Date, dilakukan penyetoran data secara berkala dari koloni kepusat (sesuai yg telah ditentukan)
 
