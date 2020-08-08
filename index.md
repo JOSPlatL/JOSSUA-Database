@@ -1,6 +1,6 @@
 ## MASTER PLAN OF JOS-L
 
 
->**_Mohon tunggu beberapa detik lagi, kode sumber sedang memproses tampilan baru website JOSSUA_**
+>_Mohon tunggu beberapa detik lagi, kode sumber sedang menyiapkan tampilan baru website **JOSterops Surabaya**_
 
 ## [ ](http://)
